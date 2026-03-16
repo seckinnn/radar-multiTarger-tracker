@@ -1,0 +1,14 @@
+# Derleme ve Binary Dosyaları
+*.exe
+*.o
+*.obj
+*.out
+*.bin
+
+# Log ve Çıktı Dosyaları
+sample_output.txt
+*.log
+
+# IDE Ayarları
+.vscode/
+.vs/
